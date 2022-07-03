@@ -8,9 +8,7 @@
   </a>
 </div>
 
-<h1 align="center">
-  hi there :wave:
-</h1>
+### Hi there 👋
 
 
 
