@@ -17,9 +17,9 @@
 
 <hr />
 
-<div id="body" align="center">
+<!-- <div id="body" align="center">
   <h3> Hello I'm Jan </h3>
-</div>
+</div> -->
 
 
 ### Hi there 👋
