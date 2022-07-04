@@ -15,13 +15,14 @@ I'm computer science student at the university, most interested in artifical int
 
 ### My Knowledge :book:
 
-Here are some of the courses that I took at uni:
+Here are some of the courses that I took at uni:  
+
 
 <ul>
-  <li>1st semester : Discrete Mathematics, Linear Algebra, Solving the problems and Games [spam-filter], Procedural Programming </li>
+  <li>1st semester : Discrete Mathematics, Linear Algebra, Solving the problems and Games [<a href="https://github.com/theChopix/spam-filter">spam-filter</a>], Procedural Programming </li>
   <li>2nd semester : Logic and Graphs, Mathematical Analysis I, Computer Architecture, Programming in Java [chess], Computer Networks</li>
   <li>3rd semester : Mathematical Analysis II, Probability and Statistics, Algorithms [task1, task2, task3, task4], Operating Systems, Numerical Analysis</li>
-  <li>4th semester : Optimalization, Database Systems, Parallel and Distributed Systems, Basics of artifical intelligence</li>
+  <li>4th semester : Optimalization, Database Systems, Parallel and Distributed Systems, Basics of artifical intelligence, Functional Programming [minitask, lambda-evaluator]</li>
 </ul>
 
 From these courses and from work in my spare time I have knowledge of these technologies:
@@ -35,7 +36,7 @@ From these courses and from work in my spare time I have knowledge of these tech
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="20" height="20"/>&nbsp;
 </div>
 
-### Now in Progress :telescope:
+### in Progress :telescope:
 
 Currently I'm working on improving these technologies: 
 
