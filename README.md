@@ -1,11 +1,3 @@
-<!-- <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div> -->
-
-<!-- <div id="header" align="center">
-  <img src="images/mugshot_full.png" width="150" />
-</div> -->
-
 <div id="badges" align="right">
   <a href="https://www.linkedin.com/in/jan-kr%C3%A1tk%C3%BD-84a145194/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -17,14 +9,10 @@
 
 <hr />
 
-<!-- <div id="body" align="center">
-  <h3> Hello I'm Jan </h3>
-</div> -->
+### Hi I'm Jan :wave:
 
-
-### Hi there 👋
-
-- 🌱 I’m currently learning ...
+I'm computer science student at the university, most interested in artifical intelligence and web development
+.
 
 
 
