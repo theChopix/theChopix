@@ -11,11 +11,11 @@
 
 ### Hi I'm Jan :wave:
 
-I'm computer science student at the university, most interested in artifical intelligence and web development.
+I study computer science at university. Artifical intelligence and Web development are among my biggest interests.
 
 ### My Knowledge :book:
 
-Here are some of the courses that I took at uni:  
+Here are some of the courses that I took at uni :  
 
 <ul>
   <li>1st semester : Discrete Mathematics, Linear Algebra, Solving the problems and Games [<a href="https://github.com/theChopix/spam-filter">spam-filter</a>], Procedural Programming </li>
@@ -24,7 +24,7 @@ Here are some of the courses that I took at uni:
   <li>4th semester : Optimalization, Database Systems, Parallel and Distributed Systems, Basics of artifical intelligence, Functional Programming [<a href="https://github.com/theChopix/functional_programming_minitask">minitask</a>, <a href="https://github.com/theChopix/Lambda-Evaluator">lambda-evaluator</a>]</li>
 </ul>
 
-From these courses and from work in my spare time I have knowledge of these technologies:
+From these courses and from work in my spare time I have knowledge of :
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
@@ -37,7 +37,7 @@ From these courses and from work in my spare time I have knowledge of these tech
 
 ### in Progress :telescope:
 
-Currently I'm working on improving these technologies: 
+Currently I am working on improving my knowledge of :
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="html5" alt="html5" width="50" height="50"/>&nbsp;
