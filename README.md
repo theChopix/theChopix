@@ -3,7 +3,7 @@
 </div> -->
 
 <div id="mugshot" align="center">
-  <img src="images/mugshot_full.png" width="200" />
+  <img src="images/mugshot_full.png" width="150" />
 </div>
 
 <div id="badges" align="center">
