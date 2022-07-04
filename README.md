@@ -15,7 +15,7 @@ I'm computer science student at the university, most interested in artifical int
 
 ### My Knowledge :book:
 
-Here are some of the courses that I took at the uni:
+Here are some of the courses that I took at uni:
 
 <ul>
   <li>1st semester : Discrete Mathematics, Linear Algebra, Solving the problems and Games [spam-filter], Procedural Programming </li>
