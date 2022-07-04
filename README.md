@@ -11,8 +11,7 @@
 
 ### Hi I'm Jan :wave:
 
-I'm computer science student at the university, most interested in artifical intelligence and web development
-.
+I'm computer science student at the university, most interested in artifical intelligence and web development.
 
 
 
