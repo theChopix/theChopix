@@ -13,6 +13,21 @@
 
 I'm computer science student at the university, most interested in artifical intelligence and web development.
 
+### My Knowledge :book:
+
+Here are some of the courses that I took at the uni:
+
+<ul>
+  <li>1st semester : Discrete Mathematics, Linear Algebra, Solving the problems and Games [spam-filter], Procedural Programming </li>
+  <li>2nd semester : Logic and Graphs, Mathematical Analysis I, Computer Architecture, Programming in Java [chess], Computer Networks</li>
+  <li>3rd semester : Mathematical Analysis II, Probability and Statistics, Algorithms [task1, task2, task3, task4], Operating Systems, Numerical Analysis</li>
+  <li>4th semester : Optimalization, Database Systems, Parallel and Distributed Systems, Basics of artifical intelligence</li>
+</ul>
+
+
+
+
+
 
 
 <!--
