@@ -45,6 +45,12 @@ Currently I'm working on improving these technologies:
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="50" height="50"/>&nbsp;
 </div>
 
+Here are some tech-books I'd like to read over the next few weeks:
+
+ - Duckett, J. (2011). <i>HTML & CSS: Design and build websites</i>. Indianapolis, IN: Wiley.
+ - Duckett, J., Ruppert, G., & Moore, J. (2015). <i>JavaScript & jQuery: Interactive front-end web development</i>.
+ - Martin, R. C. (2016). Clean code.
+
 
 
 
