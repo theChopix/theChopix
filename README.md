@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div> -->
 
-<div id="mugshot" align="center">
+<div id="header" align="center">
   <img src="images/mugshot_full.png" width="150" />
 </div>
 
@@ -12,8 +12,14 @@
   </a>
 </div>
 
+<div id="body" align="center">
+  <h3> Hello I'm Jan </h3>
+</div>
+
+
 ### Hi there 👋
 
+- 🌱 I’m currently learning ...
 
 
 
