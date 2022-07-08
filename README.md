@@ -47,11 +47,10 @@ Currently I am working on improving my knowledge of :
 
 Here are some tech-books I'd like to read over the next few weeks:
 
- - Duckett, J. (2011). <i>HTML & CSS: Design and build websites</i>. Indianapolis, IN: Wiley.
  - Duckett, J., Ruppert, G., & Moore, J. (2015). <i>JavaScript & jQuery: Interactive front-end web development</i>.
  - Martin, R. C. (2016). Clean code.
  - Freeman, E., Robson, E., Sierra, K., & Bates, B. (2004). <i>Head First design patterns</i>. Sebastopol, CA: O'Reilly.
-
+ - Broucke, S. ., & Baesens, B. (2018). <i>Practical Web Scraping for Data Science: Best Practices and Examples with Python</i>.
 
 
 
