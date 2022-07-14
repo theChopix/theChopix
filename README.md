@@ -50,6 +50,8 @@ Here are some tech-books I'd like to read over the next few weeks:
  - Elliott, E. (2014). <i>gramming JavaScript applications.</i>astopol, CA: O'Reilly Media.
  - Martin, R. C. (2016). Clean code.
  - Broucke, S. ., & Baesens, B. (2018). <i>Practical Web Scraping for Data Science: Best Practices and Examples with Python</i>.
+ - Davis, J., & Daniels, R. (2016). <i>Effective DevOps: Building a culture of collaboration, affinity, and tooling at scale.</i>
+
 
 
 
