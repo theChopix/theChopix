@@ -19,7 +19,7 @@ Here are some of the courses that I took at uni :
 
 <ul>
   <li>1st semester : Discrete Mathematics, Linear Algebra, Solving the problems and Games [<a href="https://github.com/theChopix/spam-filter">spam-filter</a>], Procedural Programming </li>
-  <li>2nd semester : Logic and Graphs, Calculus I, Computer Architecture, Programming in Java [<a href="https://github.com/theChopix/chess">chess</a>], Computer Networks</li>
+  <li>2nd semester : Logic and Graphs, Calculus I, Computer Architecture[<a href="https://github.com/theChopix/snake-semestral">snake on MicroZed board</a>, Programming in Java [<a href="https://github.com/theChopix/chess">chess</a>], Computer Networks</li>
   <li>3rd semester : Calculus II, Probability and Statistics, Algorithms [<a href="https://github.com/theChopix/algorithms_task1">task1</a>, <a href="https://github.com/theChopix/algorithms_task2">task2</a>, <a href="https://github.com/theChopix/algorithms_task3">task3</a>, <a href="https://github.com/theChopix/algorithms_task4">task4</a>], Operating Systems, Numerical Analysis</li>
   <li>4th semester : Optimalization, Database Systems, Parallel and Distributed Systems, Basics of Artificial Intelligence, Functional Programming [<a href="https://github.com/theChopix/functional_programming_minitask">minitask</a>, <a href="https://github.com/theChopix/Lambda-Evaluator">lambda-evaluator</a>]</li>
 </ul>
