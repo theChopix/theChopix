@@ -14,7 +14,7 @@
 I study computer science at university in Prague. Artificial intelligence and Web development are among my biggest interests.
 
 ### My Knowledge :book:
-
+ 
 Here are some of the courses that I took at uni :  
 
 <ul>
@@ -24,7 +24,9 @@ Here are some of the courses that I took at uni :
   <li>4th semester : Optimalization, Database Systems, Parallel and Distributed Systems, Basics of Artificial Intelligence, Functional Programming [<a href="https://github.com/theChopix/functional_programming_minitask">minitask</a>, <a href="https://github.com/theChopix/Lambda-Evaluator">lambda-evaluator</a>]</li>
 </ul>
 
-From these courses and from work in my spare time I have knowledge of :
+From these courses and from work in my spare time 
+
+I have knowledge of :
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
@@ -34,10 +36,10 @@ From these courses and from work in my spare time I have knowledge of :
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="20" height="20"/>&nbsp;
-</div>
-
-### in Progress :telescope:
-
+</div>  
+  
+### in Progress :telescope:  
+  
 Currently I am working on improving my knowledge of :
 
 <div align="center">
@@ -45,14 +47,7 @@ Currently I am working on improving my knowledge of :
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="react" alt="react" width="50" height="50"/>&nbsp;
 </div>
 
-<!--
-Here are some tech-books I'd like to read over the next few weeks:
 
- - Elliott, E. (2014). <i>Programming JavaScript applications.</i>astopol, CA: O'Reilly Media.
- - Martin, R. C. (2016). Clean code.
- - Broucke, S. ., & Baesens, B. (2018). <i>Practical Web Scraping for Data Science: Best Practices and Examples with Python</i>.
- - Davis, J., & Daniels, R. (2016). <i>Effective DevOps: Building a culture of collaboration, affinity, and tooling at scale.</i>
---!>
 
 
 
