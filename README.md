@@ -28,6 +28,7 @@ From these courses and from work in my spare time I have knowledge of :
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgresql" alt="Postgresql" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="50" height="50"/>&nbsp;
@@ -40,18 +41,18 @@ From these courses and from work in my spare time I have knowledge of :
 Currently I am working on improving my knowledge of :
 
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="html5" alt="html5" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="css3" alt="css3" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="node" alt="node" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="react" alt="react" width="50" height="50"/>&nbsp;
 </div>
 
+<!--
 Here are some tech-books I'd like to read over the next few weeks:
 
  - Elliott, E. (2014). <i>Programming JavaScript applications.</i>astopol, CA: O'Reilly Media.
  - Martin, R. C. (2016). Clean code.
  - Broucke, S. ., & Baesens, B. (2018). <i>Practical Web Scraping for Data Science: Best Practices and Examples with Python</i>.
  - Davis, J., & Daniels, R. (2016). <i>Effective DevOps: Building a culture of collaboration, affinity, and tooling at scale.</i>
-
+--!>
 
 
 
