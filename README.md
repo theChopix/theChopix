@@ -35,15 +35,7 @@ From these courses and from work in my spare time I have knowledge of :
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="20" height="20"/>&nbsp;
 </div>  
-  
-### in Progress :telescope:  
-  
-Currently I am working on improving my knowledge of :
 
-<div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="jquery" alt="jquery" width="50" height="50"/>&nbsp;
-</div>
 
 
 
