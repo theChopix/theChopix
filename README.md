@@ -12,7 +12,7 @@
 ### Hi I'm Jan :wave:
 
 I study computer science at university in Prague. Artificial intelligence and Web development are among my biggest interests.
-
+<!--
 ### My Knowledge :book:
  
 Here are some of the courses that I took at uni :  
@@ -36,7 +36,7 @@ From these courses and from work in my spare time I have knowledge of :
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="20" height="20"/>&nbsp;
 </div>  
 
-
+-->
 
 
 
