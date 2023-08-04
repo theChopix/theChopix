@@ -11,8 +11,9 @@
 
 ### Hi I'm Jan :wave:
 
-I study computer science at university in Prague. Artificial intelligence and Web development are among my biggest interests.
 <!--
+I study computer science at university in Prague. Artificial intelligence and Web development are among my biggest interests.
+
 ### My Knowledge :book:
  
 Here are some of the courses that I took at uni :  
